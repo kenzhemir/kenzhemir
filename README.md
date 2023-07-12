@@ -3,6 +3,9 @@
 #### My Roadmap Progress
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae4adc424d6b250996ea94?variant=dark&roadmaps=backend%2Ctypescript%2Cdevops%2Cfrontend)](https://roadmap.sh)
 
+![image](https://github.com/kenzhemir/kenzhemir/assets/16799744/8d4cb61a-2494-4891-a059-d4bb3251837e) [My FrontendMasters profile](https://frontendmasters.com/u/kenzhemir/)
+
+
 <!--
 **kenzhemir/kenzhemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
