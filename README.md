@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ae4adc424d6b250996ea94?variant=dark)](https://roadmap.sh)
+#### My Roadmap Progress
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ae4adc424d6b250996ea94?variant=dark&roadmaps=backend%2Ctypescript%2Cdevops%2Cfrontend)](https://roadmap.sh)
 
 <!--
 **kenzhemir/kenzhemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
